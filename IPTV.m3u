@@ -1,31 +1,19 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.xml.gz"
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD":http-referrer="":http-user-agent="",beIN SPORTS XTRA (1080p)
+#EXTM3U
+#EXTINF:-1 tvg-id="CP24.ca@SD" tvg-logo="https://i.imgur.com/YzjZUEl.png" group-title="Groups", CP24 (720p)
+http://107.167.16.138/cp24/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="HBOMovies.us@East" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/HBO_Movies_Logo.svg/960px-HBO_Movies_Logo.svg.png" group-title="Groups", HBO Movies (720p)
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsLive.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="Groups", ABC News Live (720p)
+https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Groups", beIN SPORTS XTRA (1080p)
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CVTVChannel192.us@SD":http-referrer="":http-user-agent="",CVTV Channel 192 (1080p)
-https://livestream.telvue.com/cvtv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="CVTVChannel194.us@SD":http-referrer="":http-user-agent="",CVTV Channel 194 (1080p)
-https://livestream.telvue.com/cvtv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD":http-referrer="":http-user-agent="",Fox Business Network (720p)
-http://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports1.us@HD":http-referrer="":http-user-agent="",Fox Sports 1 (720p)
-http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-#EXTINF:-1 tvg-id="FoxWeather.us@SD":http-referrer="":http-user-agent="",Fox Weather (720p)
-https://247wlive.foxweather.com/stream/index.m3u8
-#EXTINF:-1 tvg-id="HallmarkMoviesMore.us@SD":http-referrer="":http-user-agent="",Hallmark Movies & More (1080p)
+
+#EXTINF:-1 tvg-id="CityNewsToronto.ca@SD" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="Groups", CityNews Toronto (720p)
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+
+#EXTINF:-1 tvg-id="HallmarkMoviesMore.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/29af70d1-d3ba-4a16-bc4d-bd99e7e7def4/hallmark-movies-and-more_color.png" group-title="Groups", Hallmark Movies & More (1080p)
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
-#EXTINF:-1 tvg-id="GovernmentTV16.us@SD":http-referrer="":http-user-agent="",Nashua GTV Channel 16 Nashua NH (720p)
-https://livestream.telvue.com/nashuanh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us@SD":http-referrer="":http-user-agent="",Sony Movies Latin America (720p)
-http://177.52.24.163/SONY-MOVIES-HD/index.m3u8
-#EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us@SD":http-referrer="":http-user-agent="",Sony Movies Latin America (720p)
-https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8
-#EXTINF:-1 tvg-id="StarzCinema.us@East":http-referrer="":http-user-agent="",Starz Cinema (720p)
-http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
-#EXTINF:-1 tvg-id="StarzComedy.us@East":http-referrer="":http-user-agent="",Starz Comedy (1080p)
-http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
-#EXTINF:-1 tvg-id="StarzKidsFamily.us@East":http-referrer="":http-user-agent="",Starz Kids & Family (1080p)
-http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.us@West":http-referrer="":http-user-agent="",Disney XD West (480p)
-http://tvsen5.aynascope.net/disneyxd/index.m3u8
-#EXTINF:-1 tvg-id="NESN.us@SD":http-referrer="":http-user-agent="",NESN (720p)
-https://gpuserver3.tier1streams.com/NESN/index.m3u8
+
