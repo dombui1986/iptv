@@ -1,35 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-name=""tvg-id="CP24 HD *"tvg-logo="https://commons.wikimedia.org/wiki/File:CP24_black_logo.svg"tvg-chno=""group-title="CA",CP24 HD *
+#EXTINF:-1 tvg-name=""tvg-id="CP24 HD *"tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/CP24%20Channel.png"tvg-chno=""group-title="CA",CP24 HD *
 http://vpn.eleopard.pro/live/071ef30f91/7f5baabc64c9/719132.ts
-#EXTINF:-1 tvg-name=""tvg-id=" CBC TORONTO HD"tvg-logo="https://commons.wikimedia.org/wiki/File:CBC_Toronto_2017_main.svg"tvg-chno=""group-title="CA",CityNews Toronto (720p)
+#EXTINF:-1 tvg-name=""tvg-id=" CBC TORONTO HD"tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/CBC%20logo.svg"tvg-chno=""group-title="CA",CityNews Toronto (720p)
 http://vpn.eleopard.pro/live/071ef30f91/7f5baabc64c9/627014.ts
-#EXTINF:-1 tvg-name=""tvg-id="CTV TORONTO HD ◉"tvg-logo="https://commons.wikimedia.org/wiki/File:CTV_News_Channel_(Canada)_logo.svg"tvg-chno=""group-title="CA",CTV TORONTO HD ◉
+#EXTINF:-1 tvg-name=""tvg-id="CTV TORONTO HD ◉"tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/CTV%20logo%202018.svg"tvg-chno=""group-title="CA",CTV TORONTO HD ◉
 http://vpn.eleopard.pro/live/071ef30f91/7f5baabc64c9/626990.ts
-#EXTINF:-1 tvg-name=""tvg-id="CITY TORONTO HD"tvg-logo="https://seeklogo.com/vector-logo/397105/city-tv"tvg-chno=""group-title="CA",CITY TORONTO HD
+#EXTINF:-1 tvg-name=""tvg-id="CITY TORONTO HD"tvg-logo="https://commons.wikimedia.org/wiki/Category:Citytv"tvg-chno=""group-title="CA",CITY TORONTO HD
 http://vpn.eleopard.pro/live/071ef30f91/7f5baabc64c9/627006.ts
-#EXTINF:-1 tvg-name=""tvg-id="CNBC HD"tvg-logo="https://seeklogo.com/vector-logo/32648/cnbc"tvg-chno=""group-title="CA",CNBC HD
+#EXTINF:-1 tvg-name=""tvg-id="CNBC HD"tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/CNBC%20logo.svg"tvg-chno=""group-title="CA",CNBC HD
 http://vpn.eleopard.pro/live/071ef30f91/7f5baabc64c9/627003.ts
-#EXTINF:-1 tvg-name=""tvg-id="CNN HD"tvg-logo="https://seeklogo.com/vector-logo/32699/cnn"tvg-chno=""group-title="CA",CNN HD
+#EXTINF:-1 tvg-name=""tvg-id="CNN HD"tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/CNN.svg"tvg-chno=""group-title="CA",CNN HD
 http://vpn.eleopard.pro/live/071ef30f91/7f5baabc64c9/627002.ts
-#EXTINF:-1 tvg-name=""tvg-id="CNN INTERNATIONAL HD"tvg-logo="https://seeklogo.com/vector-logo/297985/cnn-international"tvg-chno=""group-title="CA",CNN INTERNATIONAL HD
+#EXTINF:-1 tvg-name=""tvg-id="CNN INTERNATIONAL HD"tvg-logo="https://commons.wikimedia.org/wiki/Category:CNN_International"tvg-chno=""group-title="CA",CNN INTERNATIONAL HD
 http://vpn.eleopard.pro/live/071ef30f91/7f5baabc64c9/627001.ts
-#EXTINF:-1 tvg-name=""tvg-id="FOX NEWS HD"tvg-logo="https://seeklogo.com/vector-logo/323595/fox-news"tvg-chno=""group-title="CA",FOX NEWS HD
+#EXTINF:-1 tvg-name=""tvg-id="FOX NEWS HD"tvg-logo="https://commons.wikimedia.org/wiki/Category:Fox_News"tvg-chno=""group-title="CA",FOX NEWS HD
 http://vpn.eleopard.pro/live/071ef30f91/7f5baabc64c9/626944.ts
-#EXTINF:-1 tvg-name=""tvg-id="CPAC"tvg-logo="https://seeklogo.com/vector-logo/482621/cpac-tv"tvg-chno=""group-title="CA",CPAC
+#EXTINF:-1 tvg-name=""tvg-id="CPAC"tvg-logo="https://commons.wikimedia.org/wiki/Category:CPAC"tvg-chno=""group-title="CA",CPAC
 http://vpn.eleopard.pro/live/071ef30f91/7f5baabc64c9/626997.ts
-#EXTINF:-1 tvg-name=""tvg-id="CARTOON NETWORK HD"tvg-logo="https://seeklogo.com/vector-logo/465796/cartoon-network-hd"tvg-chno=""group-title="CA",CARTOON NETWORK HD
+#EXTINF:-1 tvg-name=""tvg-id="CARTOON NETWORK HD"tvg-logo="https://commons.wikimedia.org/wiki/Category:Cartoon_Network"tvg-chno=""group-title="CA",CARTOON NETWORK HD
 http://vpn.eleopard.pro/live/071ef30f91/7f5baabc64c9/627019.ts
-#EXTINF:-1 tvg-name=""tvg-id="DISCOVERY CANADA"tvg-logo="https://seeklogo.com/vector-logo/195271/discovery-channel"tvg-chno=""group-title="CA",DISCOVERY CANADA
+#EXTINF:-1 tvg-name=""tvg-id="DISCOVERY CANADA"tvg-logo="https://commons.wikimedia.org/wiki/Category:Discovery_Channel"tvg-chno=""group-title="CA",DISCOVERY CANADA
 http://vpn.eleopard.pro/live/071ef30f91/7f5baabc64c9/626962.ts
-#EXTINF:-1 tvg-name=""tvg-id="DISNEY CANADA HD"tvg-logo="https://seeklogo.com/vector-logo/41972/disney"tvg-chno=""group-title="CA",DISNEY CANADA HD
+#EXTINF:-1 tvg-name=""tvg-id="DISNEY CANADA HD"tvg-logo="https://commons.wikimedia.org/wiki/Category:Disney_Channel"tvg-chno=""group-title="CA",DISNEY CANADA HD
 http://vpn.eleopard.pro/live/071ef30f91/7f5baabc64c9/626959.ts
-#EXTINF:-1 tvg-name=""tvg-id="HBO 1 HD"tvg-logo="https://www.cleanpng.com/png-hbo-canada-television-channel-the-movie-network-te-ze81y7/"tvg-chno=""group-title="CA",HBO 1 HD
+#EXTINF:-1 tvg-name=""tvg-id="HBO 1 HD"tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/HBO_logo.svg"tvg-chno=""group-title="CA",HBO 1 HD
 http://vpn.eleopard.pro/live/071ef30f91/7f5baabc64c9/626933.ts
-#EXTINF:-1 tvg-name=""tvg-id="HBO 2 HD"tvg-logo="https://seeklogo.com/vector-logo/457042/hbo-2-hd-nl"tvg-chno=""group-title="CA",HBO 2 HD
+#EXTINF:-1 tvg-name=""tvg-id="HBO 2 HD"tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/HBO_logo.svg"tvg-chno=""group-title="CA",HBO 2 HD
 http://vpn.eleopard.pro/live/071ef30f91/7f5baabc64c9/626932.ts
-#EXTINF:-1 tvg-name=""tvg-id="VIP HBO 2 HD"tvg-logo="https://seeklogo.com/vector-logo/457042/hbo-2-hd-nl"tvg-chno=""group-title="CA",VIP HBO 2 HD
+#EXTINF:-1 tvg-name=""tvg-id="VIP HBO 2 HD"tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/HBO_logo.svg"tvg-chno=""group-title="CA",VIP HBO 2 HD
 http://vpn.eleopard.pro/live/071ef30f91/7f5baabc64c9/626843.ts
-#EXTINF:-1 tvg-name=""tvg-id="CP24 HD ◉"tvg-logo="https://commons.wikimedia.org/wiki/File:CP24_black_logo.svg"tvg-chno=""group-title="CA",CP24 HD ◉
+#EXTINF:-1 tvg-name=""tvg-id="CP24 HD ◉"tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/CP24%20Channel.png"tvg-chno=""group-title="CA",CP24 HD ◉
 http://vpn.eleopard.pro/live/071ef30f91/7f5baabc64c9/626998.ts
-
-https://commons.wikimedia.org/wiki/Category:CNN_International
